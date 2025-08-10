@@ -1,3 +1,6 @@
+#EJERCICIO 2
+#- Crear una función normalizar_nombres(nombres)
+
 def normalizar_nombres(nombres):
     nombres_limpios = []
 

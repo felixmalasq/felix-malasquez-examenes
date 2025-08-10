@@ -1,3 +1,8 @@
+#ejercicio 1
+#- Crear una función llamada procesar_notas(estudiantes) la cual va a recibir
+#un diccionario donde las claves serán los nombres de los estudiantes y sus
+#valores serán listas con 3 notas.
+
 def procesar_notas(estudiantes:dict):
     final = {}
     mejor_promedio = -1
