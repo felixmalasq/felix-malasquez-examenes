@@ -30,7 +30,6 @@ def encontrar_mayor(**numeros):
     return mayor
 
 # Ejemplos
-if __name__ == "__main__":
     print("Ejmplo 1")
     encontrar_mayor(num1=5, num2=10, num3=3, num4=8, num5=2, num6=7)
 

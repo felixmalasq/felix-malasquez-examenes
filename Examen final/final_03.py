@@ -37,7 +37,6 @@ def registrar_alumno(nombre, edad, *notas):
         print("No se proporcionaron notas")
 
 # ejemplo
-if __name__ == "__main__":
     print("Caso correcto (más de 1 parámetro)")
     registrar_alumno("Pedro", 30, 15, 18, 12, 16)
 
